@@ -3,5 +3,7 @@ def display_board
   first_line = "   |   |   "
   second_line = "-----------"
   third_line = "   |   |   "
-  forth = "-----------"
+  forth_line =  "-----------"
+  first_line = "   |   |   "
+
 end
